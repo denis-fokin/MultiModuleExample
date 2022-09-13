@@ -1,0 +1,1 @@
+D:\export\wsps\MultiModuleExample\js-ui\build\classes\kotlin\main\JsAssistant.class;D:\export\wsps\MultiModuleExample\js-ui\build\classes\kotlin\main\JsConfigurator.class

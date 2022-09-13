@@ -1,0 +1,7 @@
+
+rootProject.name = 'MultiModuleExample'
+include 'ui'
+include 'python-ui'
+include 'js-ui'
+include 'framework'
+
